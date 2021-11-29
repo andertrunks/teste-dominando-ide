@@ -6,6 +6,7 @@ public class PrimeiroProgramam {
 
 		Gato gato = new Gato();
 		
+		
 		System.out.println(gato);
 		// TODO Auto-generated method stub
 		/*int a = 5;
